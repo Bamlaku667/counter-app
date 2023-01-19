@@ -1,0 +1,38 @@
+button  {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    width: 200px;
+    margin-top: 5px;
+}
+
+body {
+    background-image: url('background.jpg');
+}
+
+h2 {
+    font-size: 50px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: green;
+
+}
+
+.counter {
+    background: white;
+    align-items: center;
+    max-width: 500px;
+    margin: 0 auto;
+    height: 60vh;
+    text-align: center;
+    
+
+}
+
